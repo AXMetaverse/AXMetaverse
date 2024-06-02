@@ -18,6 +18,12 @@ We are an inclusive team that values diversity. Our team members use pronouns su
 ## ⚡ Fun fact:
 Did you know? Our team is scattered across five continents, bringing together a diverse set of perspectives and expertise to create truly global digital solutions. Plus, we host virtual hackathons every quarter to spark innovation and creativity within our community!
 
+## Get Involved:
+- **Follow us on GitHub:** Stay updated with our latest projects and developments by following our repositories.
+- **Contribute:** We welcome contributions from the community. Whether it's code, design, or ideas, your input is valuable to us.
+- **Collaborate:** Reach out to us for potential collaborations on exciting projects.
+- **Engage:** Join our Discord community to discuss, share, and learn about the latest trends in the metaverse and blockchain technologies.
+
 ---
 
 AXMetaverse/AXMetaverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
