@@ -69,7 +69,7 @@ For any inquiries or collaboration opportunities, feel free to reach out to us:
 
 - **Email**: [andrea@axmc.xyz](mailto:andrea@axmc.xyz)
 - **LinkedIn**: [AXMetaverse](#)
-- **Twitter**: [@AXMetaverse](#)
+- **Twitter**: [@AXMC.XYZ](#)
 - **Discord**: Join our community discussions and hackathons.
 
 [Back to top](#axmetaverse)
